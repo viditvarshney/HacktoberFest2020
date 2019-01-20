@@ -86,6 +86,20 @@ void A() {
 
 ***
 
+# Procedure 
+
+***
+
+* First run the code in the Python IDE 
+* then the Program asks you to take input of no. of disks
+* Simply give input .. 
+* It will shoe you the result and the algorithm 
+* It also show that which disks you have to move and to which tower it has to move 
+
+***
+
+## Start the Repository 👍 
+
 ### Contact
 > Let's Become Friend 
 - [Twitter](https://twitter.com/varshney_vidit)
