@@ -1,9 +1,7 @@
 # TOH_HacktoberFest2020
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/viditvarshney/TOH_HacktoberFest2020?style=for-the-badge)
@@ -86,15 +84,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  
   <tr>
     <td align="center"><a href="https://github.com/Girrajkishor"><img src="https://avatars2.githubusercontent.com/u/44622686?v=4" width="100px;" alt=""/><br /><sub><b>Sandy</b></sub></a><br /><a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=Girrajkishor" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/imvv/"><img src="https://avatars3.githubusercontent.com/u/34159717?v=4" width="100px;" alt=""/><br /><sub><b>Vidit Varshney</b></sub></a><br /><a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=viditvarshney" title="Code">💻</a> <a href="#projectManagement-viditvarshney" title="Project Management">📆</a> <a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=viditvarshney" title="Documentation">📖</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Hola !! Done.

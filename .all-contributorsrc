@@ -13,6 +13,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "viditvarshney",
+      "name": "Vidit Varshney",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/34159717?v=4",
+      "profile": "https://www.linkedin.com/in/imvv/",
+      "contributions": [
+        "code",
+        "projectManagement",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
