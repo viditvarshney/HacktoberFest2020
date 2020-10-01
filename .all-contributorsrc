@@ -25,6 +25,17 @@
         "code"
       ]
     },
+{
+      "login": "shagun25",
+      "name": "shagun goyal",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/34159717?v=4",
+      "profile": "https://www.linkedin.com/in/imvv/",
+      "contributions": [
+        "code",
+        "projectManagement",
+        "doc"
+      ]
+    },
     {
 
       "login": "sandeepcoder097",
@@ -38,8 +49,8 @@
      {
       "login": "clickable-ops",
       "name": "clickable-ops",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/56975650?v=4",
-      "profile": "https://github.com/clickable-ops",
+      "avatar_url": "shagun.png",
+      "profile": "https://github.com/shagun25",
 
       "contributions": [
         "code"
