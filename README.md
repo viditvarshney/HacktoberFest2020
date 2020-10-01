@@ -16,8 +16,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-#### Contribute to hacktoberfest 2020
-
 ### Welcome to HacktoberFest 2020 Public Repository.
 
 <p>A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
@@ -28,8 +26,8 @@ https://hacktoberfest.digitalocean.com/</p>
 
 ### Process are as follows :-
 
-- Login using github @ [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-- Create four valid pull requests (PRs) between 1st - 31st October
+- Register using github @ [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- Create 4 valid pull requests (PRs) between 1st - 31st October
 
 ### How to Contribute to this repository
 
@@ -49,9 +47,8 @@ cd TOH_HacktoberFest2020
 
 ### Contributions Rules
 
-- [Hacktoberfest](https:github.com/viditvarshney/TOH_HacktoberFest)
-
-- Pick the Existing Project or make a new one
+- Pick the Existing Project
+- If you want to make new Directly better to take Permission [here](https://github.com/viditvarshney/TOH_HacktoberFest2020/issues/new)
 - Make a new branch
 
 ```markdown
@@ -73,6 +70,8 @@ git push origin brach-name
 
 - Congratulations!
 
+> # Important
+
 - You are almost there, now its time for you to be on our contributors page. Just find your pull request and comment the below message by relacing <username> with your name and <contributors> with the type of contribution. You can find the contribution type [here](https://allcontributors.org/docs/en/emoji-key)
 
 ```markdown
@@ -87,6 +86,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
+  
   <tr>
     <td align="center"><a href="https://github.com/Girrajkishor"><img src="https://avatars2.githubusercontent.com/u/44622686?v=4" width="100px;" alt=""/><br /><sub><b>Sandy</b></sub></a><br /><a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=Girrajkishor" title="Code">💻</a></td>
   </tr>
