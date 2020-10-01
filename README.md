@@ -85,8 +85,17 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/viditvarshney"><img src="https://avatars3.githubusercontent.com/u/34159717?v=4" width="100px;" alt=""/><br /><sub><b>Vidit Varshney</b></sub></a><br /><a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=viditvarshney" title="Code">💻</a> <a href="#projectManagement-viditvarshney" title="Project Management">📆</a> <a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=viditvarshney" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Girrajkishor"><img src="https://avatars2.githubusercontent.com/u/44622686?v=4" width="100px;" alt=""/><br /><sub><b>Sandy</b></sub></a><br /><a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=Girrajkishor" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/clickable-ops"><img src="https://avatars1.githubusercontent.com/u/56975650?v=4" width="100px;" alt=""/><br /><sub><b>clickable-ops</b></sub></a><br /><a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=clickable-ops" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/sandeepcoder097"><img src="https://avatars1.githubusercontent.com/u/31854379?v=4" width="100px;" alt=""/><br /><sub><b>SANDEEP KUMAR SHARMA</b></sub></a><br /><a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=sandeepcoder097" title="Code">💻</a></td>
+
+    
+    
+
+    
+
+
   </tr>
 </table>
 
