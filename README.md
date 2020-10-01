@@ -1,6 +1,9 @@
 # TOH_HacktoberFest2020
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/viditvarshney/TOH_HacktoberFest2020?style=for-the-badge)
@@ -8,7 +11,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-![GitHub contributors](https://img.shields.io/github/contributors/viditvarshney/TOH_HacktoberFest2020?color=orange)
 ![GitHub Repo stars](https://img.shields.io/github/stars/viditvarshney/TOH_HacktoberFest2020?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/viditvarshney/TOH_HacktoberFest2020?style=social)
 
@@ -44,6 +46,10 @@ git clone https://github.com/your-username/TOH_HacktoberFest2020.git
 ```markdown
 cd TOH_HacktoberFest2020
 ```
+
+### Contributions Rules
+
+- [Hacktoberfest](https:github.com/viditvarshney/TOH_HacktoberFest)
 
 - Pick the Existing Project or make a new one
 - Make a new branch
@@ -88,19 +94,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Hola !! Done.
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
