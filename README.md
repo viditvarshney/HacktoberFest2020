@@ -1,111 +1,107 @@
-# Tower-Of-Hanoi
-It is a Mathematical Puzzle , in which you take objects from the given tower to the destination Tower 
+# TOH_HacktoberFest2020
 
-**Welcome to the Tower-Of-Hanoi-Solutions**
+![GitHub pull requests](https://img.shields.io/github/issues-pr/viditvarshney/TOH_HacktoberFest2020?style=for-the-badge)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/viditvarshney/TOH_HacktoberFest2020?style=for-the-badge)
 
-***
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-## **TOWER OF HANOI SOLUTIONS**  { A Program To Find Solutions Of A TOH Problem }
+![GitHub contributors](https://img.shields.io/github/contributors/viditvarshney/TOH_HacktoberFest2020?color=orange)
+![GitHub Repo stars](https://img.shields.io/github/stars/viditvarshney/TOH_HacktoberFest2020?style=social)
+![GitHub forks](https://img.shields.io/github/forks/viditvarshney/TOH_HacktoberFest2020?style=social)
 
-***
-### **Tower Of Hanoi(TOH)**
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-TOH ( also called the **Tower of Brahma or Lucas' Tower**) is a mathematical Quiz.It consists of three rods and a number of disks of different sizes, which can slide onto any rod. So basically ,  The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top, means making the conical shape .. 
+#### Contribute to hacktoberfest 2020
 
-***
-The Objective of TOH is to move the entire STACK to another rod 
+### Welcome to HacktoberFest 2020 Public Repository.
 
-**Following `Rules` are to be followed**
+<p>A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
-* _One disks move at a time._
-* _Each move will consist of taking the upper disk from one of the stacks and placing it on the top of another stack or on 
-   an empty rod._
-* _No smaller disk placed below the bigger one._
+https://hacktoberfest.digitalocean.com/</p>
 
-***
-We can find that in **how many minimum moves of disks we can get the solution**
-Like for disks == 3 ,<br>
-We require  minimum 7 moves to get the solution.
+---
 
-So the Formula is **`(2^n - 1)`**
-where n : Number of the disks.. 
+### Process are as follows :-
 
-***
-For program you must a basic Knowledge of :--
-* Recursive Function
+- Login using github @ [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- Create four valid pull requests (PRs) between 1st - 31st October
 
-* Python 
+### How to Contribute to this repository
 
-*** 
+- Star the Repository
+- Fork the repository (Click the Fork button in the top right corner of this page)
+- Clone the forked repository to your local machine.
 
-## **Recursive Function**
+```markdown
+git clone https://github.com/your-username/TOH_HacktoberFest2020.git
+```
 
-A recursive function is a function which either calls itself or is in a potential cycle of function calls.
-And a **Immediate recursive function** is that in which function calls itself directly
+- change the present working directory
 
-**A recursive function has the following general form :--**
+```markdown
+cd TOH_HacktoberFest2020
+```
 
-***
+- Pick the Existing Project or make a new one
+- Make a new branch
 
-ReturnType Function( Pass appropriate arguments ) {
+```markdown
+git checkout -b branch-name
+```
 
-  if a simple case, return the simple value   // base case / stopping condition
+- Make change in the repository with the new branch.
+- push the changes.
 
-  else call function with simpler version of problem 
-}
+```markdown
+git add .
+git commit -m "Your commit Message"
+git push origin brach-name
+```
 
-***
+- Make a pull request.
 
-For a recursive function to stop calling itself we require some type of stopping condition.  If it is not the base case, then we simplify our computation using the general formula.
+---
 
-One can view this mathematically in a directed call graph.
+- Congratulations!
 
-***
+- You are almost there, now its time for you to be on our contributors page. Just find your pull request and comment the below message by relacing <username> with your name and <contributors> with the type of contribution. You can find the contribution type [here](https://allcontributors.org/docs/en/emoji-key)
 
-void A() { 
+```markdown
+@all-contributors please add @<username> for <contributions>
+```
 
-     A(); 
+## The Wall of Contributors ✨
 
-  return; 
- 
-}
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-***
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+[![](https://github.com/remarkablemark.png?size=50)](https://github.com/remarkablemark)
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/viditvarshney"><img src="https://avatars2.githubusercontent.com/u/71883812?v=4" width="100px;" alt=""/><br /><sub><b>navneetsn1809</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=navneetsn1809" title="Documentation">📖</a> <a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=navneetsn1809" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/pranav-mendiratta-89713a173/"><img src="https://avatars1.githubusercontent.com/u/54665036?v=4" width="100px;" alt=""/><br /><sub><b>Pranav</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=Pranav016" title="Code">💻</a></td>
+    <td align="center"><a href="https://prithvirajbiswas.com/"><img src="https://avatars2.githubusercontent.com/u/55537197?v=4" width="100px;" alt=""/><br /><sub><b>Prithviraj Biswas</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=prithvirajbytes" title="Code">💻</a></td>
+    <td align="center"><a href="http://piyushxbajaj.com"><img src="https://avatars1.githubusercontent.com/u/40456093?v=4" width="100px;" alt=""/><br /><sub><b>Piyush</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=piyushxbajaj" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/deadline007"><img src="https://avatars1.githubusercontent.com/u/66679154?v=4" width="100px;" alt=""/><br /><sub><b>deadline007</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=deadline007" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ravikr126"><img src="https://avatars2.githubusercontent.com/u/53082978?v=4" width="100px;" alt=""/><br /><sub><b>Ravi Kumar</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=ravikr126" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Nishant07singh"><img src="https://avatars0.githubusercontent.com/u/40488005?v=4" width="100px;" alt=""/><br /><sub><b>Nishant Singh</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=Nishant07singh" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Aarushi21"><img src="https://avatars3.githubusercontent.com/u/59742587?v=4" width="100px;" alt=""/><br /><sub><b>Aarushi21</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=Aarushi21" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sidsinghrajput"><img src="https://avatars2.githubusercontent.com/u/55332990?v=4" width="100px;" alt=""/><br /><sub><b>Siddharth Singh</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=sidsinghrajput" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ashcode07"><img src="https://avatars0.githubusercontent.com/u/39613323?v=4" width="100px;" alt=""/><br /><sub><b>Ashwani Kumar</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=ashcode07" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Lakshmikittur"><img src="https://avatars1.githubusercontent.com/u/22762431?v=4" width="100px;" alt=""/><br /><sub><b>Lakshmi Kittur</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=Lakshmikittur" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/siddhantkhare24/"><img src="https://avatars0.githubusercontent.com/u/55068936?v=4" width="100px;" alt=""/><br /><sub><b>Siddhant Khare</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=Siddhant-K-code" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/throwexceptions"><img src="https://avatars0.githubusercontent.com/u/17608701?v=4" width="100px;" alt=""/><br /><sub><b>Renier Trenuela</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=throwexceptions" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/PurvaG1700"><img src="https://avatars0.githubusercontent.com/u/51987874?v=4" width="100px;" alt=""/><br /><sub><b>Purva Gaikwad</b></sub></a><br /><a href="https://github.com/Rishikesh-12/HacktoberFest2020/commits?author=PurvaG1700" title="Code">💻</a></td>
+  </tr>
+</table>
 
-* Here is the 'Demonstration' of the 'Tower Of Hanoi' , How it works 
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
 
-* Take an example of 3 Disks
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
-![tower_of_hanoi_4](https://user-images.githubusercontent.com/34159717/44943897-a4e21580-adeb-11e8-80ab-2d96b5d3812c.gif)
-
-* Have questions in your mind about the TOH
-
-![tower_of_hanoi_5](https://media.giphy.com/media/KunD7Kwgt7LvG/giphy.gif)
-
-* ...Then comment or do chat with me at  [![Join the chat at https://gitter.im/Reaction-Timer/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Reaction-Timer/Lobby)
-
-***
-
-# Procedure to run the Program 
-
-***
-
-* First run the code in the Python IDE 
-* then the Program asks you to take input of no. of disks
-* Simply give input .. 
-* It will shoe you the result and the algorithm 
-* It also show that which disks you have to move and to which tower it has to move 
-
-***
-
-## Start the Repository 👍 
-
-### Contact
-> Let's Become Friend 
-- [Twitter](https://twitter.com/varshney_vidit)
-- [Github](https://github.com/viditvarshney)
-- [Facebook](https://www.facebook.com/vidit.varshney222)
-- [Linkedin](https://www.linkedin.com/in/vidit-varshney/)
-
-
-
+Hola !! Done.
