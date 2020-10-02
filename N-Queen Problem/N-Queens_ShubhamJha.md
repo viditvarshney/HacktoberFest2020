@@ -1,4 +1,4 @@
-"I have Choosed "Java,C++,C and Python Language  to solve the N-Queens Puzzle Problem by Backtracking"
+"I have Choosed "Java and Python Language"  to solve the N-Queens Puzzle Problem by Backtracking"
 
 
 -> Because I find that to get best performace of our code implementation and approaches must be there in as many language as we can,
