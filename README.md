@@ -1,7 +1,9 @@
 # TOH_HacktoberFest2020
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/viditvarshney/TOH_HacktoberFest2020?style=for-the-badge)
@@ -54,6 +56,7 @@ git checkout -b branch-name
 ```
 
 - Make change in the repository with the new branch.
+- Make all the changes inside your folder eg: `N-Queen Problem/viditVarshney/...`
 - push the changes.
 
 ```markdown
@@ -101,6 +104,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Hola !! Done.

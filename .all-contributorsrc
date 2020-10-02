@@ -25,17 +25,7 @@
         "code"
       ]
     },
-{
-      "login": "shagun25",
-      "name": "shagun goyal",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/34159717?v=4",
-      "profile": "https://www.linkedin.com/in/shagun-goyal/",
-      "contributions": [
-        "code",
-        "projectManagement",
-        "doc"
-      ]
-    },
+
     {
 
       "login": "sandeepcoder097",
@@ -46,16 +36,7 @@
         "code"
       ]
      }
-     {
-      "login": "clickable-ops",
-      "name": "clickable-ops",
-      "avatar_url": "shagun.png",
-      "profile": "https://github.com/shagun25",
 
-      "contributions": [
-        "code"
-      ]
-    }
   ],
   "contributorsPerLine": 7,
   "projectName": "TOH_HacktoberFest2020",
