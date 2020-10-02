@@ -25,6 +25,18 @@
         "code"
       ]
     },
+    
+    {
+      "login": "clickable-ops",
+      "name": "clickable-ops",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/56975650?v=4",
+      "profile": "https://github.com/clickable-ops",
+
+      "contributions": [
+        "code"
+      ]
+    },
+    
     {
 
       "login": "sandeepcoder097",
@@ -35,16 +47,6 @@
         "code"
       ]
      }
-     {
-      "login": "clickable-ops",
-      "name": "clickable-ops",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/56975650?v=4",
-      "profile": "https://github.com/clickable-ops",
-
-      "contributions": [
-        "code"
-      ]
-    }
   ],
   "contributorsPerLine": 7,
   "projectName": "TOH_HacktoberFest2020",
