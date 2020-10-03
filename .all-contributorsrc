@@ -35,14 +35,23 @@
       ]
     },
     {
-     "login": "sandeepcoder097",
+      "login": "sandeepcoder097",
       "name": "SANDEEP KUMAR SHARMA",
       "avatar_url": "https://avatars1.githubusercontent.com/u/31854379?v=4",
       "profile": "https://github.com/sandeepcoder097",
       "contributions": [
         "code"
       ]
-     }
+    },
+    {
+      "login": "Innovator07",
+      "name": "Shubham Jha",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/52310066?v=4",
+      "profile": "https://github.com/Innovator07",
+      "contributions": [
+        "code"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "projectName": "TOH_HacktoberFest2020",
