@@ -1,7 +1,7 @@
 # TOH_HacktoberFest2020
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/viditvarshney/TOH_HacktoberFest2020?style=for-the-badge)
@@ -86,11 +86,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/imvv/"><img src="https://avatars3.githubusercontent.com/u/34159717?v=4" width="100px;" alt=""/><br /><sub><b>Vidit Varshney</b></sub></a><br /><a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=viditvarshney" title="Code">💻</a> <a href="#projectManagement-viditvarshney" title="Project Management">📆</a> <a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=viditvarshney" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Girrajkishor"><img src="https://avatars2.githubusercontent.com/u/44622686?v=4" width="100px;" alt=""/><br /><sub><b>Sandy</b></sub></a><br /><a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=Girrajkishor" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/clickable-ops"><img src="https://avatars1.githubusercontent.com/u/56975650?v=4" width="100px;" alt=""/><br /><sub><b>clickable-ops</b></sub></a><br /><a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=clickable-ops" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/sandeepcoder097"><img src="https://avatars1.githubusercontent.com/u/31854379?v=4" width="100px;" alt=""/><br /><sub><b>SANDEEP KUMAR SHARMA</b></sub></a><br /><a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=sandeepcoder097" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Innovator07"><img src="https://avatars0.githubusercontent.com/u/52310066?v=4" width="100px;" alt=""/><br /><sub><b>Shubham Jha</b></sub></a><br /><a href="https://github.com/viditvarshney/TOH_HacktoberFest2020/commits?author=Innovator07" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/imvv/"><img src="https://avatars3.githubusercontent.com/u/34159717?v=4" width="100px;" alt=""/><br /><sub><b>Vidit Varshney</b></sub></a><br /><a href="https://github.com/viditvarshney/HacktoberFest2020/commits?author=viditvarshney" title="Code">💻</a> <a href="#projectManagement-viditvarshney" title="Project Management">📆</a> <a href="https://github.com/viditvarshney/HacktoberFest2020/commits?author=viditvarshney" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Girrajkishor"><img src="https://avatars2.githubusercontent.com/u/44622686?v=4" width="100px;" alt=""/><br /><sub><b>Sandy</b></sub></a><br /><a href="https://github.com/viditvarshney/HacktoberFest2020/commits?author=Girrajkishor" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/clickable-ops"><img src="https://avatars1.githubusercontent.com/u/56975650?v=4" width="100px;" alt=""/><br /><sub><b>clickable-ops</b></sub></a><br /><a href="https://github.com/viditvarshney/HacktoberFest2020/commits?author=clickable-ops" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sandeepcoder097"><img src="https://avatars1.githubusercontent.com/u/31854379?v=4" width="100px;" alt=""/><br /><sub><b>SANDEEP KUMAR SHARMA</b></sub></a><br /><a href="https://github.com/viditvarshney/HacktoberFest2020/commits?author=sandeepcoder097" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Innovator07"><img src="https://avatars0.githubusercontent.com/u/52310066?v=4" width="100px;" alt=""/><br /><sub><b>Shubham Jha</b></sub></a><br /><a href="https://github.com/viditvarshney/HacktoberFest2020/commits?author=Innovator07" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/palankit942"><img src="https://avatars2.githubusercontent.com/u/63632104?v=4" width="100px;" alt=""/><br /><sub><b>Ankit kumar pal</b></sub></a><br /><a href="https://github.com/viditvarshney/HacktoberFest2020/commits?author=palankit942" title="Code">💻</a></td>
   </tr>
 </table>
 
