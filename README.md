@@ -1,7 +1,7 @@
 # TOH_HacktoberFest2020
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/viditvarshney/TOH_HacktoberFest2020?style=for-the-badge)
@@ -92,6 +92,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/sandeepcoder097"><img src="https://avatars1.githubusercontent.com/u/31854379?v=4" width="100px;" alt=""/><br /><sub><b>SANDEEP KUMAR SHARMA</b></sub></a><br /><a href="https://github.com/viditvarshney/HacktoberFest2020/commits?author=sandeepcoder097" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Innovator07"><img src="https://avatars0.githubusercontent.com/u/52310066?v=4" width="100px;" alt=""/><br /><sub><b>Shubham Jha</b></sub></a><br /><a href="https://github.com/viditvarshney/HacktoberFest2020/commits?author=Innovator07" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/palankit942"><img src="https://avatars2.githubusercontent.com/u/63632104?v=4" width="100px;" alt=""/><br /><sub><b>Ankit kumar pal</b></sub></a><br /><a href="https://github.com/viditvarshney/HacktoberFest2020/commits?author=palankit942" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Dikisukhi"><img src="https://avatars1.githubusercontent.com/u/50097241?v=4" width="100px;" alt=""/><br /><sub><b>Dikisukhi</b></sub></a><br /><a href="https://github.com/viditvarshney/HacktoberFest2020/commits?author=Dikisukhi" title="Code">💻</a></td>
   </tr>
 </table>
 
